@@ -1,3 +1,4 @@
+/*
 const goods = [
     {
         name:'iphone 12 ',
@@ -36,4 +37,10 @@ const goods = [
   };
 console.log(filterPrice(goods));
 
+*/
+
+test();
+function test() {
+    console.log('salam')
+}
 
