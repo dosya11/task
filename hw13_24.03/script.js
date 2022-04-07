@@ -21,7 +21,7 @@ console.log(showAges());
         }
     }, 1000);
 }
-console.log(showTime('hello world'));
+console.log(showTime('hello world!'));
 
 
 
